@@ -112,6 +112,7 @@ button {
 .benefits {
   background-color: #1e1823;
 }
+
 .benefits-title {
 }
 
@@ -197,7 +198,7 @@ button {
 }
 
 .made-list {
-  list-style-type: ;
+  list-style-type: disc;
 }
 
 .made-item {
